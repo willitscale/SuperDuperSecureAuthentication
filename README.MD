@@ -10,19 +10,19 @@ Include this with the following:
 
 ```
 {
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/willitscale/SuperDuperAuthentication"
-        }
-    ],
-    "require": {
-        "SuperDuperAuthentication/SuperDuperAuthentication": "master"
+  "repositories": [
+    {
+      "url": "https://github.com/willitscale/super-duper-authentication.git",
+      "type": "git"
     }
+  ],
+  "require": {
+    "super-duper-authentication/super-duper-authentication": "^1.0"
+  }
 }
 ```
 
-Create a `.env` file with the following:
+Either set a system variable or create a `.env` file with the following:
 
 ```
 SECRET=yoursupersecretvalue
