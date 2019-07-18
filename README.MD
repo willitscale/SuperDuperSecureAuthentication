@@ -13,11 +13,11 @@ Include this with the following:
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/willitscale/SuperDuperSecureAuthentication"
+            "url": "https://github.com/willitscale/SuperDuperAuthentication"
         }
     ],
     "require": {
-        "SuperDuperSecureAuthentication/SuperDuperSecureAuthentication": "master"
+        "SuperDuperAuthentication/SuperDuperAuthentication": "master"
     }
 }
 ```
