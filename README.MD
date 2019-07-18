@@ -2,7 +2,7 @@
 
 ### Disclaimer
 
-This is **NOT** a library which should be used for commercial purposes or in any means to protect sensitive data as it was written with a backdoor for a CTF (Capture the Flag) hacking challenge.
+This is **NOT** a library which should be used for commercial purposes or by any means to protect sensitive data as it was written with a backdoor for a CTF (Capture the Flag) hacking challenge.
 
 ### Setup 
 
