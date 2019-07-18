@@ -1,5 +1,6 @@
 {
-    "name": "SuperDuperAuthentication",
+    "name": "super-duper-authentication/super-duper-authentication",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "SuperDuperAuthentication": "src/"
