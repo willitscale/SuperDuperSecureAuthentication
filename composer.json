@@ -1,0 +1,8 @@
+{
+    "name": "SuperDuperAuthentication",
+    "autoload": {
+        "psr-4": {
+            "SuperDuperAuthentication": "src/"
+        }
+    }
+}
